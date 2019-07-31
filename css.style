@@ -33,9 +33,9 @@ h3{
 
 #header{
   margin-bottom:32px;
-  text-align:centre;
+  text-align:center;
 }
 #footer{
   margin-top:64px;
-  text-align:centre;
+  text-align:center;
 }
